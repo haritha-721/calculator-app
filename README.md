@@ -6,7 +6,7 @@ Thanks for checking out this front-end coding challenge.
 
 This challenges help you improve your coding skills by building realistic projects.
 
-To do this challenge, you need a good understanding of HTML, CSS and JavaScript
+To do this challenge, you need a good understanding of HTML, CSS and JavaScript.
 
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
